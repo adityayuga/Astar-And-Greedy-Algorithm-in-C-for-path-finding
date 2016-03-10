@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1424235415 source:f:\kuliah\makul_ai\tugas\homework 1\new folder\mapping\city.cpp
+
+1424236250 source:f:\kuliah\makul_ai\tugas\homework 1\new folder\mapping\map.cpp
+	"Map.h"
+
+1424236098 f:\kuliah\makul_ai\tugas\homework 1\new folder\mapping\map.h
+	"City.h"
+	<iostream>
+	<vector>
+
+1424239297 f:\kuliah\makul_ai\tugas\homework 1\new folder\mapping\city.h
+	<iostream>
+	<vector>
+
+1427351537 source:f:\kuliah\makul_ai\tugas\project\mapping\city.cpp
+	"City.h"
+	"cmath"
+
+1426153826 f:\kuliah\makul_ai\tugas\project\mapping\city.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1426153900 source:f:\kuliah\makul_ai\tugas\project\mapping\map.cpp
+	"Map.h"
+
+1426143980 f:\kuliah\makul_ai\tugas\project\mapping\map.h
+	"City.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+
+1427352913 source:f:\kuliah\makul_ai\tugas\project\mapping\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"City.h"
+	"Map.h"
+	"Astar.h"
+
+1427353129 source:f:\kuliah\makul_ai\tugas\project\mapping\astar.cpp
+	"Astar.h"
+	<cstdlib>
+
+1427352597 f:\kuliah\makul_ai\tugas\project\mapping\astar.h
+	"City.h"
+	"Map.h"
+
+1426160637 source:e:\ai\project ai\city.cpp
+	"City.h"
+	"cmath"
+
+1426153825 e:\ai\project ai\city.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1426154392 source:e:\ai\project ai\main.cpp
+	<iostream>
+	"City.h"
+	"Map.h"
+
+1426143979 e:\ai\project ai\map.h
+	"City.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+
+1426153898 source:e:\ai\project ai\map.cpp
+	"Map.h"
+
+1427351538 source:f:\project ai\city.cpp
+	"City.h"
+	"cmath"
+
+1426153826 f:\project ai\city.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1427412352 source:f:\project ai\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"City.h"
+	"Map.h"
+	"Astar.h"
+
+1426143980 f:\project ai\map.h
+	"City.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+
+1427352598 f:\project ai\astar.h
+	"City.h"
+	"Map.h"
+
+1426153900 source:f:\project ai\map.cpp
+	"Map.h"
+
+1427411868 source:f:\project ai\astar.cpp
+	"Astar.h"
+	<cstdlib>
+
+1427428591 source:f:\kuliah\makul_ai\tugas\project\final\astar.cpp
+	"Astar.h"
+	<cstdlib>
+
+1427428596 f:\kuliah\makul_ai\tugas\project\final\astar.h
+	"City.h"
+	"Map.h"
+
+1426153826 f:\kuliah\makul_ai\tugas\project\final\city.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1426143980 f:\kuliah\makul_ai\tugas\project\final\map.h
+	"City.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+
+1427351538 source:f:\kuliah\makul_ai\tugas\project\final\city.cpp
+	"City.h"
+	"cmath"
+
+1427426540 source:f:\kuliah\makul_ai\tugas\project\final\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"City.h"
+	"Map.h"
+	"Astar.h"
+
+1426153900 source:f:\kuliah\makul_ai\tugas\project\final\map.cpp
+	"Map.h"
+
+1427428592 source:e:\ai\project ai\final\astar.cpp
+	"Astar.h"
+	<cstdlib>
+
+1427428598 e:\ai\project ai\final\astar.h
+	"City.h"
+	"Map.h"
+
+1426153826 e:\ai\project ai\final\city.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1426143980 e:\ai\project ai\final\map.h
+	"City.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+
+1427351538 source:e:\ai\project ai\final\city.cpp
+	"City.h"
+	"cmath"
+
+1426153900 source:e:\ai\project ai\final\map.cpp
+	"Map.h"
+
+1427428592 source:c:\users\aditya yuga\desktop\final\astar.cpp
+	"Astar.h"
+	<cstdlib>
+
+1427428598 c:\users\aditya yuga\desktop\final\astar.h
+	"City.h"
+	"Map.h"
+
+1426153826 c:\users\aditya yuga\desktop\final\city.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1426143980 c:\users\aditya yuga\desktop\final\map.h
+	"City.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+
+1427351538 source:c:\users\aditya yuga\desktop\final\city.cpp
+	"City.h"
+	"cmath"
+
+1427428760 source:c:\users\aditya yuga\desktop\final\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"City.h"
+	"Map.h"
+	"Astar.h"
+
+1426153900 source:c:\users\aditya yuga\desktop\final\map.cpp
+	"Map.h"
+
